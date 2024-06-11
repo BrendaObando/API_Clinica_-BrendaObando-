@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_Clinica", "API_Clinica\API_Clinica.csproj", "{0C0F289C-3AF4-4646-B5ED-49C4EF49960B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{22E51B1E-5247-4AC5-A3A3-EE3AA590DA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{8CD02D4D-0BC2-4F14-815D-AB02955B36B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0F289C-3AF4-4646-B5ED-49C4EF49960B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0F289C-3AF4-4646-B5ED-49C4EF49960B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0F289C-3AF4-4646-B5ED-49C4EF49960B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0F289C-3AF4-4646-B5ED-49C4EF49960B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E51B1E-5247-4AC5-A3A3-EE3AA590DA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E51B1E-5247-4AC5-A3A3-EE3AA590DA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E51B1E-5247-4AC5-A3A3-EE3AA590DA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E51B1E-5247-4AC5-A3A3-EE3AA590DA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD02D4D-0BC2-4F14-815D-AB02955B36B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD02D4D-0BC2-4F14-815D-AB02955B36B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD02D4D-0BC2-4F14-815D-AB02955B36B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD02D4D-0BC2-4F14-815D-AB02955B36B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32339805-CDBA-414E-8339-F1C84EFAD74E}
+	EndGlobalSection
+EndGlobal
